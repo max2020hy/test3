@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_FileSystemWatcher", "test_FileSystemWatcher\test_FileSystemWatcher.csproj", "{508CB6D7-980B-44A1-BEF3-1E99D305E321}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Watcher", "Watcher\Watcher.csproj", "{1D8AB779-D213-4041-9CE5-AB928DBFE1AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frm", "Frm\Frm.csproj", "{BF650301-5C3E-4D4E-B344-F113C892ECE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{508CB6D7-980B-44A1-BEF3-1E99D305E321}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{508CB6D7-980B-44A1-BEF3-1E99D305E321}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{508CB6D7-980B-44A1-BEF3-1E99D305E321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D8AB779-D213-4041-9CE5-AB928DBFE1AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D8AB779-D213-4041-9CE5-AB928DBFE1AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D8AB779-D213-4041-9CE5-AB928DBFE1AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D8AB779-D213-4041-9CE5-AB928DBFE1AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF650301-5C3E-4D4E-B344-F113C892ECE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF650301-5C3E-4D4E-B344-F113C892ECE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF650301-5C3E-4D4E-B344-F113C892ECE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF650301-5C3E-4D4E-B344-F113C892ECE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

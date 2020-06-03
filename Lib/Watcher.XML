@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Watcher</name>
+    </assembly>
+    <members>
+        <member name="M:Watcher.Watcher.Watching">
+            <summary>
+            开启文件监控
+            </summary>
+        </member>
+    </members>
+</doc>
